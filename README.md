@@ -27,7 +27,6 @@ O foco está em **previsões probabilísticas**, ou seja, o modelo prevê um val
 
 - **Pipeline de pré-processamento:**  
   Desenvolvi um pipeline com:
-  - Tratamento de valores ausentes  
   - Codificação de variáveis categóricas  
   - Padronização de variáveis numéricas  
   - Separação treino/teste com estratificação da variável target  
